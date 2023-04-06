@@ -1,1 +1,1 @@
-The hardware modules design for test development. Using KiCAD. 
+This hardware modules design. Using KiCAD.
